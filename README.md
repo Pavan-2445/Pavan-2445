@@ -40,7 +40,7 @@ Welcome to my hub of innovation and technology! I am passionate about building s
 
 ## 🏆 Favorite Projects
 
-| 🚜 [Smart Krishi Assistant](https://karavadipavankumar.netlify.app/#projects) | 🦠 Predictive Analysis of COVID-19 India |
+| 🚜 [Smart Krishi Assistant](https://smart-krishi-assistant.onrender.com/) | 🦠 [Predictive Analysis of COVID-19 India](https://predictive-analysis-of-covid-19-india.streamlit.app/) |
 |:-----------------------------------------------------------------------------:|:----------------------------------------:|
 
 - **Smart Krishi Assistant:** Empowering farmers with AI-powered insights.
