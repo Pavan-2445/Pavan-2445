@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/pavankumarkaravadi24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="ksvnspavankumar.24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/pavan_kumar_karavadi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -67,14 +67,21 @@
 
 ### 🔥 Featured Projects
 
-> Replace these with your top 3-5 repos for maximum impact.
-
 <p align="center">
-  <a href="https://github.com/Pavan-2445/REPO_NAME_1">
+  <a href="https://github.com/Pavan-2445/ZyGo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Pavan-2445/REPO_NAME_2">
+  <a href="https://github.com/Pavan-2445/NorthStar-Ops-Tech-Assessment">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Pavan-2445/Predictive-analysis-of-Covid-19-India">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Pavan-2445/GreenPulseAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+   <a href="https://github.com/Pavan-2445/Heart-Failure-Risk-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -91,8 +98,8 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/pavankumarkaravadi24"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ksvnspavankumar.24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
