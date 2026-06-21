@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,flask,django,mongodb,mysql,postgres,git,github,docker,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,flask,django,mongodb,mysql,postgres,nosql,git,github,docker,aws,linux,vscode" />
 </p>
 
 **Machine Learning / AI / Data Science**
