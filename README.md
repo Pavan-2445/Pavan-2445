@@ -69,19 +69,19 @@
 
 <p align="center">
   <a href="https://github.com/Pavan-2445/ZyGo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=ZyGo&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Pavan-2445/NorthStar-Ops-Tech-Assessment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=NorthStar-Ops-Tech-Assessment&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Pavan-2445/Predictive-analysis-of-Covid-19-India">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=Predictive-analysis-of-Covid-19-India&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Pavan-2445/GreenPulseAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=GreenPulseAI&theme=tokyonight&hide_border=true" />
   </a>
    <a href="https://github.com/Pavan-2445/Heart-Failure-Risk-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavan-2445&repo=Heart-Failure-Risk-Detection&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
